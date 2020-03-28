@@ -17,7 +17,7 @@ class employee
 
 void employee :: get_details()
 {
-	cout<<"\nEnter employee number:\n";
+	cout<<"\nEnter employee numbers:\n";
 	cin>>emp_id;
 	cout<<"\nEnter employee salary:\n";
 	cin>>emp_sal;
